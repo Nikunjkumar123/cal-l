@@ -1,0 +1,38 @@
+body{
+  background-color: #996FFF;
+}
+
+.head{
+  text-align: center;
+  font-size: 2.4rem;
+  color: #00ffff;
+  background-color: #999FFF;
+  border-radius: 5rem;
+}
+
+.main{
+  text-align: center;
+  text-indent: inherit;
+  font-size: 1.8rem;
+  background-color: #F0FF675;
+  color: yellow;
+}
+
+#butn{
+  border-radius: 1.9rem;
+  font-size: 1.9rem;
+}
+.result{
+  text-align: center;
+  font-size: 2.7rem;
+  padding-top: 1.8rem;
+  color: 	#800000;
+  text-decoration: overline;
+  text-decoration: underline;
+  text-decoration-line: underline;
+}
+.message{
+  text-align: center;
+  font-size: 2rem;
+  color: #800000;
+}
